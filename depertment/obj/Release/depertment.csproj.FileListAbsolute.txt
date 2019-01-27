@@ -1,0 +1,29 @@
+G:\depertment\depertment\bin\Release\depertment.exe.config
+G:\depertment\depertment\bin\Release\depertment.exe
+G:\depertment\depertment\bin\Release\depertment.pdb
+G:\depertment\depertment\bin\Release\itextsharp.dll
+G:\depertment\depertment\bin\Release\itextsharp.pdfa.dll
+G:\depertment\depertment\bin\Release\itextsharp.xtra.dll
+G:\depertment\depertment\bin\Release\itextsharp.xml
+G:\depertment\depertment\obj\Release\depertment.csprojResolveAssemblyReference.cache
+G:\depertment\depertment\obj\Release\depertment.Form1.resources
+G:\depertment\depertment\obj\Release\depertment.Properties.Resources.resources
+G:\depertment\depertment\obj\Release\depertment.csproj.GenerateResource.Cache
+G:\depertment\depertment\obj\Release\depertment.exe
+G:\depertment\depertment\obj\Release\depertment.pdb
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\bin\Release\depertment.exe.config
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\obj\Release\depertment.exe
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\obj\Release\depertment.pdb
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\bin\Release\depertment.exe
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\bin\Release\depertment.pdb
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\bin\Release\itextsharp.dll
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\bin\Release\itextsharp.pdfa.dll
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\bin\Release\itextsharp.xtra.dll
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\bin\Release\itextsharp.xml
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\obj\Release\depertment.csprojResolveAssemblyReference.cache
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\obj\Release\depertment.Form1.resources
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\obj\Release\depertment.Properties.Resources.resources
+C:\Users\Ritwik Kr. Guria\Desktop\khlkjhk\otg\depertment\depertment\obj\Release\depertment.csproj.GenerateResource.Cache
+D:\desktop\khlkjhk\otg\depertment\depertment\bin\Release\depertment.exe.config
+D:\desktop\khlkjhk\otg\depertment\depertment\obj\Release\depertment.exe
+D:\desktop\khlkjhk\otg\depertment\depertment\obj\Release\depertment.pdb

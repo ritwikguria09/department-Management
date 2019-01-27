@@ -1,0 +1,31 @@
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\bin\Debug\depertment.exe.config
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\bin\Debug\depertment.exe
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\bin\Debug\depertment.pdb
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\obj\Debug\depertment.csprojResolveAssemblyReference.cache
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\obj\Debug\depertment.Form1.resources
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\obj\Debug\depertment.Properties.Resources.resources
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\obj\Debug\depertment.csproj.GenerateResource.Cache
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\obj\Debug\depertment.exe
+c:\users\ritwik kr. guria\documents\visual studio 2012\Projects\depertment\depertment\obj\Debug\depertment.pdb
+G:\depertment\depertment\bin\Debug\depertment.exe.config
+G:\depertment\depertment\obj\Debug\depertment.exe
+G:\depertment\depertment\obj\Debug\depertment.pdb
+G:\depertment\depertment\bin\Debug\depertment.exe
+G:\depertment\depertment\bin\Debug\depertment.pdb
+G:\depertment\depertment\obj\Debug\depertment.csprojResolveAssemblyReference.cache
+G:\depertment\depertment\obj\Debug\depertment.Form1.resources
+G:\depertment\depertment\obj\Debug\depertment.Properties.Resources.resources
+G:\depertment\depertment\obj\Debug\depertment.csproj.GenerateResource.Cache
+F:\depertment\depertment\bin\Debug\depertment.exe.config
+F:\depertment\depertment\obj\Debug\depertment.exe
+F:\depertment\depertment\obj\Debug\depertment.pdb
+F:\depertment\depertment\bin\Debug\depertment.exe
+F:\depertment\depertment\bin\Debug\depertment.pdb
+F:\depertment\depertment\obj\Debug\depertment.csprojResolveAssemblyReference.cache
+F:\depertment\depertment\obj\Debug\depertment.Form1.resources
+F:\depertment\depertment\obj\Debug\depertment.Properties.Resources.resources
+F:\depertment\depertment\obj\Debug\depertment.csproj.GenerateResource.Cache
+G:\depertment\depertment\bin\Debug\itextsharp.dll
+G:\depertment\depertment\bin\Debug\itextsharp.pdfa.dll
+G:\depertment\depertment\bin\Debug\itextsharp.xtra.dll
+G:\depertment\depertment\bin\Debug\itextsharp.xml
